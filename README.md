@@ -53,17 +53,22 @@ Shows booking volume across time with date slicers for dynamic range.
 **4. Vehicle Type Insights (Bar/Column Visuals):**
 Compares ride volume, revenue, and ratings across vehicle types (Mini, Prime, Sedan, Auto, etc.)
   
-**5. Cancellation Analysis (Pie-Chart + Filter):**  
+**5. Cancellation Analysis (Pie-Chart + Filter):** 
 Cancellation reasons split by rides cancelled by drivers and customers with category filters and date sclicers.
   
 **6. Payment Method Distribution (Column Chart):**
 Displays breakdown of UPI, card, cash, and wallet-based payments.
-  
-**• Business Impact & Insights:**
+
+# Business Impact & Insights:
+
 A)Highlights a major opportunity to reduce cancellations and improve operational efficiency.
+
 B)Cash is the dominant payment method, followed by UPI. The business can reduce operational overhead by incentivizing digital payments (UPI) with discounts or loyalty points.
+
 C)Despite high booking values, Mini and Prime Plus have slightly lower success rates than E-Bikes—perhaps due to availability or driver issues. 
+
 D)Customer cancellations are led by “Change of Plans” and “Driver is not moving.” Driver cancellations are primarily due to personal/car issues and customer being unresponsive. Improves understanding of cancellation friction points.
+
 E)Ratings for both drivers and customers are consistently around 4.00, but Bike and Mini vehicles slightly underperform. Indicates that experience is generally consistent, but Bike ride comfort and driver behavior might need improvement.
 
 
