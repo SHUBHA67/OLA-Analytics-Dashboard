@@ -74,6 +74,7 @@ E)Ratings for both drivers and customers are consistently around 4.00, but Bike 
 # Some Dashboard Snapshots : 
 https://github.com/SHUBHA67/OLA-Analytics-Dashboard/blob/main/Screenshot%20of%20Dashboard%20-%20Cancellations.PNG
 https://github.com/SHUBHA67/OLA-Analytics-Dashboard/blob/main/Screenshot%20of%20Dashboard%20-%20Revenue.PNG
+Screenshot of Dashboard - Cancellations.PNG
 
 
 
