@@ -72,10 +72,9 @@ D)Customer cancellations are led by “Change of Plans” and “Driver is not m
 E)Ratings for both drivers and customers are consistently around 4.00, but Bike and Mini vehicles slightly underperform. Indicates that experience is generally consistent, but Bike ride comfort and driver behavior might need improvement.
 
 # Some Dashboard Snapshots : 
-Example: ![Dashboard Preview](https://github.com/SHUBHA67/OLA-Analytics-Dashboard/blob/main/Screenshot%20of%20Dashboard%20-%20Revenue.PNG)
-https://github.com/SHUBHA67/OLA-Analytics-Dashboard/blob/99dc69293e14d84c8603573dc6d5ffd1ddc1dcd8/Screenshot%20of%20Dashboard%20-%20Cancellations.PNG
+Example: ![Dashboard Preview](https://github.com/SHUBHA67/OLA-Analytics-Dashboard/blob/main/Screenshot%20of%20Main%20page%20-%20Overall.PNG)
+![Dashboard Preview](https://github.com/SHUBHA67/OLA-Analytics-Dashboard/blob/main/Screenshot%20of%20Dashboard%20-%20Revenue.PNG)
 
-https://github.com/SHUBHA67/OLA-Analytics-Dashboard/blob/main/Screenshot%20of%20Dashboard%20-%20Revenue.PNG
 
 
 
